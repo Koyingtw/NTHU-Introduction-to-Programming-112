@@ -1,4 +1,4 @@
-# For 13969 - Frieren and Magic - 0 for lowercase and 1 for uppercase
+# For 13970 - Frieren and her Rizz - 0 for lower and 1 for upper - 0 for lowercase and 1 for uppercase
 
 According to 
 
